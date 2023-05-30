@@ -22,9 +22,12 @@ things 		  and move forward!
 ## Experience
 	No development experience at this time.
 ## About mе
-	I am an individual entrepreneur in the field of sociology and public opinion research. I decided to start my way in a profession
-	where my heart is in it. My focus is practically unaffected. Currently studying SQL- basic, Django and DRF frameworks. I'm trying
-	to learn English, I'm concentrating on it more. After the first job and mastering the basics of the profession, I plan to continue 	   studying new technologies, there is a great interest in C/C# and data analysis using Python.
+	I am an individual entrepreneur in the field of sociology and public opinion research. I decided to start 
+	my way in a profession where my heart is in it. My focus is practically unaffected. 
+	Currently studying SQL- basic, Django and DRF frameworks. 
+	I'm trying to learn English, I'm concentrating on it more. After the first job and mastering
+	the basics of the profession, I plan to continue studying new technologies, there is a great interest in C/C# and data analysis
+	using Python.
 	I have a fairly wide range of interests - history, philosophy, sociology, travel, technology, playing musical instruments, 
 	coffee, board games, and more.
 
