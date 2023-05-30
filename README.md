@@ -6,7 +6,7 @@ things 		  and move forward!
 **GIT**
 
 ## Education
-	#### Faculty of Physics and Engineering:
+#### Faculty of Physics and Engineering:
 	- Bachelor's degree - Innovation (complete)
 	- Master's degree - Applied Materials Science (incomplete)
 ## Advanced Education
