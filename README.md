@@ -33,8 +33,7 @@ things 		  and move forward!
 	first job and mastering the basics of the profession, I plan to
 	continue studying new technologies, there is a great interest in
 	C/C# and data analysis using Python.
-		I have a fairly wide range of interests - history, 
-philosophy,
+	I have a fairly wide range of interests - history, philosophy,
 	sociology, travel, technology, playing musical instruments,
 	coffee, board games, and more.
 
