@@ -17,7 +17,7 @@
 ## About me
 I am an individual entrepreneur in the field of sociology :earth_asia: and public opinion research :firecracker:. I decided to start my path in the programming profession, which is my soul :floppy_disk: 🖇.<br>
 Currently studying SQL- basic, Django and DRF frameworks.<br>
-Trying to improve my English 🈵 (A2 level). After the first job and mastering the basics of the profession, I plan to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.<br>
+Trying to improve my English 🈵 (A2 level). After the first job and learning the basics of the profession, I am planning to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.<br>
 I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and more<br>
 
 #### Education :herb:
