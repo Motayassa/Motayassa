@@ -13,23 +13,20 @@
 </div>
 
 ## About me
- I am an individual entrepreneur in the field of sociology and public opinion research. I decided to start my path in the programming profession, which is my soul.
- Currently studying SQL- basic, Django and DRF frameworks.
- I'm trying to learn English. After the first job and mastering the basics of the profession, I plan to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.
- I have a fairly wide range of interests - history, philosophy, sociology, travel, technology, playing musical instruments, coffee, board games, and more</p>
+I am an individual entrepreneur in the field of sociology :earth_asia: and public opinion research :firecracker:. I decided to start my path in the programming profession, which is my soul :floppy_disk: 🖇.<br>
+Currently studying SQL- basic, Django and DRF frameworks.<br>
+Trying to improve my English 🈵 (A2 level). After the first job and mastering the basics of the profession, I plan to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.<br>
+I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and more<br>
 
-<p><h3>Education</h3>
-<h5>Faculty of Physics and Engineering:</h5>
-<ul>
-	<li>Bachelor's degree - Innovation (complete)</li>
-	<li>Master's degree - Applied Materials Science (incomplete)</li>
-</ul></p>
+#### Education :herb:
+###### Faculty of Physics and Engineering: 
+- Bachelor's degree - Innovation (complete)
+- Master's degree - Applied Materials Science (incomplete)
 
-<p><h3>Experience</h3>
-	No development experience at this time.</p>
-</div>
+#### Experience
+No development experience at this time
 
-## My tech stuck
+## My tech stuck 🛠️
 **Python**
 **GIT**
 
