@@ -24,22 +24,22 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 - Master's degree - Applied Materials Science (incomplete)
 
 #### Experience
-No development experience at this time
+No development experience at this time :confused:
 
 ## My tech stuck 🛠️
 **Python**
 **GIT**
 
-## My key skills
-### Fundamental:
-	- Knowledge of operating systems, proficiency in linux MacOS and Windows;
-	- Understanding of imperative, procedural, functional, and object-oriented programming paradigms;
-	- English A2 proficiency;
-	- Mathematical training (some things are forgotten, but it is not difficult to restore knowledge)
-	- Project and personnel management (not in development)
-### Applied:
-	- Python basics;
-	- Object-oriented programming in Python;
-	- Managing the GIT version control system;
-	- Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is
-	not empty to me)
+## My key skills :old_key:
+#### Fundamental:
+- Knowledge of operating systems, proficiency in Linux, MacOS and Windows :computer:
+- Understanding the fundamentals of imperative, procedural, functional and object-oriented programming paradigms;
+- English A2 proficiency;
+- Mathematical training :orthodox_cross: (some things are forgotten, but it is not difficult to restore knowledge)
+- :chains: Project and personnel management (not in development)
+#### Applied:
+- Python :snake: basics [[Example of a repository with my code]](https://github.com/Motayassa/Basic_Internship_S-P_part1)
+- Object-oriented programming :door: in Python [[Example of a repository with my code]](https://github.com/Motayassa/OOP_in_Python)
+- Managing the GIT version control system
+- Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
+- Use of MS Office :pushpin:
