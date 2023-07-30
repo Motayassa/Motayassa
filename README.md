@@ -28,15 +28,17 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 
 #### Advanced Education
 ###### Books :bookmark: :
-:blue_book:[Allen B. Downey] Think Python,<br>
-:books:[Mark Lutz] Learning Python,<br>
-:orange_book:[Scott Chacon and Ben Straub] ProGit
+:blue_book: [Allen B. Downey] Think Python,<br>
+:books: [Mark Lutz] Learning Python,<br>
+:orange_book: [Scott Chacon and Ben Straub] ProGit
 
 ###### Courses
-:apple:Fundamentals of using Python (Course by Sergei Balakirev at Stepik)<br>
-:green_apple:Object-oriented programming in Python (Course by Sergey Balakirev at Stepik)<br>
-:tomato:Basic courses on Hexlet (command line basics, working with GIT)<br>
-:green_apple:Courses on working in Visual Studio Code and Git from Microsoft Leaning
+:apple: Fundamentals of using Python (Course by Sergei Balakirev at Stepik)<br>
+:green_apple: Object-oriented programming in Python (Course by Sergey Balakirev at Stepik)<br>
+:tomato: Command Line Basics - Course from Hexlet<br>
+:tomato: GIT Basics - Course from Hexlet<br>
+:green_apple: Courses on working in Visual Studio Code and Git from Microsoft Leaning<br>
+:ramen: Operation of operating systems - Course from Hexlet
 
 #### Experience
 No development experience at this time :confused:
