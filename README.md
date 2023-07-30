@@ -61,6 +61,7 @@ No development experience at this time :confused:
 - Python :snake: basics [[Example of a repository with my code]](https://github.com/Motayassa/Basic_Internship_S-P_part1)
 - Object-oriented programming :door: in Python [[Example of a repository with my code]](https://github.com/Motayassa/OOP_in_Python)
 - Managing the GIT version control system
+- Basic HTML and CSS practices
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
 - Use of MS Office :pushpin:
 
