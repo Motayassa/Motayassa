@@ -60,3 +60,9 @@ No development experience at this time :confused:
 - Managing the GIT version control system
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
 - Use of MS Office :pushpin:
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motayassa&theme=apprentice" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Motayassa&theme=apprentice" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Motayassa&theme=apprentice" alt=""/>
+</div>
