@@ -22,17 +22,32 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 
 #### Education :herb:
 ###### Faculty of Physics and Engineering: 
-- Bachelor's degree - Innovation (complete)
-- Master's degree - Applied Materials Science (incomplete)
+:zero: Bachelor's degree - Innovation (complete)<br>
+:one: Master's degree - Applied Materials Science (incomplete)
+
+#### Advanced Education
+###### Books :bookmark: :
+:blue_book:[Allen B. Downey] Think Python,<br>
+:books:[Mark Lutz] Learning Python,<br>
+:orange_book:[Scott Chacon and Ben Straub] ProGit
+
+###### Courses
+:apple:Fundamentals of using Python (Course by Sergei Balakirev at Stepik)<br>
+:green_apple:Object-oriented programming in Python (Course by Sergey Balakirev at Stepik)<br>
+:tomato:Basic courses on Hexlet (command line basics, working with GIT)<br>
+:green_apple:Courses on working in Visual Studio Code and Git from Microsoft Leaning
 
 #### Experience
 No development experience at this time :confused:
 
-## My tech stuck 🛠️
-**Python**
-**GIT**
+## My tech stuck 🧰
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="GIT" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GITHub" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40">&nbsp;
 
-## My key skills :old_key:
+## My key skills :medical_symbol:
 #### Fundamental:
 - Knowledge of operating systems, proficiency in Linux, MacOS and Windows :computer:
 - Understanding the fundamentals of imperative, procedural, functional and object-oriented programming paradigms;
