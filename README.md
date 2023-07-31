@@ -1,4 +1,3 @@
-<style="white">
 <div id="header" align="center">
 	<h1>Hi there, I'm Ilya Malov</h1>
 	<h3>Beginner, purposeful Python backend developer</h3>
