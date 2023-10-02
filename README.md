@@ -15,8 +15,8 @@
 </div>
 
 ## About me
-I am an individual entrepreneur in the field of sociology :earth_asia: and public opinion research :firecracker:. I decided to start my path in the programming profession, which is my soul :floppy_disk: 🖇.<br>
-Currently studying SQL- basic, Django and DRF frameworks.<br>
+I decided to start my path in the programming profession, which is my soul :floppy_disk: 🖇. I am an individual entrepreneur in the field of sociology :earth_asia: and public opinion research :firecracker:.<br>
+Currently studying MySQL, Django and DRF frameworks.<br>
 Trying to improve my English 🈵 (A2 level). After the first job and learning the basics of the profession, I am planning to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.<br>
 I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and more<br>
 
@@ -29,18 +29,23 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 ###### Books :bookmark: :
 :blue_book: [Allen B. Downey] Think Python,<br>
 :books: [Mark Lutz] Learning Python,<br>
-:orange_book: [Scott Chacon and Ben Straub] ProGit
+:orange_book: [Scott Chacon and Ben Straub] ProGit,<br>
+:notebook: [Alan Beaulieu] Learning SQL Generate, Manipulate, and Retrieve Data,<br>
+:book: [Antonio Melé] Django 4 By Example <br>
 
 ###### Courses
 :apple: Fundamentals of using Python (Course by Sergei Balakirev at Stepik)<br>
 :green_apple: Object-oriented programming in Python (Course by Sergey Balakirev at Stepik)<br>
+:tangerine: Django 4 for Python (Course by Sergei Balakirev)<br>
+:tangerine: Jinja2 templating tool (Course by Sergei Balakirev)<br>
 :tomato: Command Line Basics - Course from Hexlet<br>
 :tomato: GIT Basics - Course from Hexlet<br>
 :green_apple: Courses on working in Visual Studio Code and Git from Microsoft Leaning<br>
-:ramen: Operation of operating systems - Course from Hexlet
+:ramen: Operation of operating systems - Course from Hexlet<br>
+
 
 #### Experience
-No development experience at this time :confused:
+No experience in combat projects yet:
 
 ## My tech stuck 🧰
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40">&nbsp;
@@ -61,6 +66,7 @@ No development experience at this time :confused:
 - Object-oriented programming :door: in Python [[Example of a repository with my code]](https://github.com/Motayassa/OOP_in_Python)
 - Managing the GIT version control system
 - Basic HTML and CSS practices
+- Basic skill in relational database management (MySQL) :globe_with_meridians:  
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
 - Use of MS Office :pushpin:
 
