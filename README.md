@@ -15,9 +15,9 @@
 </div>
 
 ## About me
-I decided to start my path in the programming profession, which is my soul :floppy_disk: 🖇. I am an individual entrepreneur in the field of sociology :earth_asia: and public opinion research :firecracker:.<br>
+Now I am doing public opinion research 🌏 as an individual entrepreneur in the field of sociology and studying programming🧨. I decided to start my path in the programming profession because I feel that it is what I need 💾 🖇.<br>
 Currently studying MySQL, Django and DRF frameworks.<br>
-Trying to improve my English 🈵 (A2 level). After the first job and learning the basics of the profession, I am planning to continue studying new technologies, there is a great interest in C/C# and data analysis using Python.<br>
+Trying to improve my English 🈵 (A2 level). Trying to gain skills and experience for my first job in IT. <br>
 I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and more<br>
 
 #### Education :herb:
@@ -33,7 +33,7 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 :notebook: [Alan Beaulieu] Learning SQL Generate, Manipulate, and Retrieve Data,<br>
 :book: [Antonio Melé] Django 4 By Example <br>
 
-###### Courses
+###### Courses :cactus:
 :apple: Fundamentals of using Python (Course by Sergei Balakirev at Stepik)<br>
 :green_apple: Object-oriented programming in Python (Course by Sergey Balakirev at Stepik)<br>
 :tangerine: Django 4 for Python (Course by Sergei Balakirev)<br>
@@ -45,7 +45,7 @@ I have a fairly wide range of interests - history, philosophy, sociology, travel
 
 
 #### Experience
-No experience in combat projects yet:
+No experience in combat projects yet
 
 ## My tech stuck 🧰
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40">&nbsp;
@@ -53,6 +53,8 @@ No experience in combat projects yet:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GITHub" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="Django" width="40" height="40">&nbsp;
 
 ## My key skills :medical_symbol:
 #### Fundamental:
@@ -66,9 +68,10 @@ No experience in combat projects yet:
 - Object-oriented programming :door: in Python [[Example of a repository with my code]](https://github.com/Motayassa/OOP_in_Python)
 - Managing the GIT version control system
 - Basic HTML and CSS practices
-- Basic skill in relational database management (MySQL) :globe_with_meridians:  
+- Basic skill in relational database management (MySQL) :globe_with_meridians:
+- Basic knowledge of Django framework
+- Knowledge of basic project structure, models, views, templates and routing.  
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
-- Use of MS Office :pushpin:
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motayassa&theme=apprentice" alt=""/>
