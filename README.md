@@ -69,8 +69,8 @@ No experience in combat projects yet
 - Managing the GIT version control system
 - Basic HTML and CSS practices
 - Basic skill in relational database management (MySQL) :globe_with_meridians:
-- Basic knowledge of Django framework
-- Knowledge of basic project structure, models, views, templates and routing.  
+- Basic knowledge of Django framework. Example project on Django, based on a tutorial from the framework's technical documentation. [[Repository]](https://github.com/Motayassa/project-polls-django-documentation), [[Website]](https://motaya.pythonanywhere.com/polls/).
+- Knowledge of basic project structure, models, views, templates and routing.
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
 
 <div id="stat" align="center">
