@@ -15,10 +15,10 @@
 </div>
 
 ## About me
-Now I am doing public opinion research 🌏 as an individual entrepreneur in the field of sociology and studying programming🧨. I decided to start my path in the programming profession because I feel that it is what I need 💾 🖇.<br>
+Now I am an individual entrepreneur in the field of public opinion research 🌏 and studying programming🧨. I decided to start my journey as a programmer about a year ago 💾 🖇.<br>
 Currently studying MySQL, Django and DRF frameworks.<br>
-Trying to improve my English 🈵 (A2 level). Trying to gain skills and experience for my first job in IT. <br>
-I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and more<br>
+Trying to improve English 🈵. Trying to gain skills and experience for my first job in IT. <br>
+I have a fairly wide range of interests - history, philosophy, sociology, travel :footprints:, politics :speaking_head:, technology, playing musical instruments, coffee, board games, and ...<br>
 
 #### Education :herb:
 ###### Faculty of Physics and Engineering: 
@@ -60,17 +60,17 @@ No experience in combat projects yet
 #### Fundamental:
 - Knowledge of operating systems, proficiency in Linux, MacOS and Windows :computer:
 - Understanding the fundamentals of imperative, procedural, functional and object-oriented programming paradigms;
-- English A2 proficiency;
+- English A2/B1 proficiency;
 - Mathematical training :orthodox_cross: (some things are forgotten, but it is not difficult to restore knowledge)
 - :chains: Project and personnel management (not in development)
 #### Applied:
 - Python :snake: basics [[Example of a repository with my code]](https://github.com/Motayassa/Basic_Internship_S-P_part1)
 - Object-oriented programming :door: in Python [[Example of a repository with my code]](https://github.com/Motayassa/OOP_in_Python)
-- Managing the GIT version control system
+- Managing the GIT version control system with GIT Flow
 - Basic HTML and CSS practices
 - Basic skill in relational database management (MySQL) :globe_with_meridians:
-- Basic knowledge of Django framework. Example project on Django, based on a tutorial from the framework's technical documentation. [[Repository]](https://github.com/Motayassa/project-polls-django-documentation), [[Website]](https://motaya.pythonanywhere.com/polls/).
-- Knowledge of basic project structure, models, views, templates and routing.
+- Basic knowledge of Django framework. Example project on Django, currently under development. [[Repository]](https://github.com/Motayassa/photo_contests_website/tree/develop)
+- Knowledge of basic project structure, models, views, templates and routing
 - Did academic projects at school/university in Pascal, VisualBasic, C and C# (the syntax and base of these languages is not empty to me)
 
 <div id="stat" align="center">
